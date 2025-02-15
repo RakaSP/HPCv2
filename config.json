@@ -1,0 +1,1 @@
+{"platform": "platform/platform.xml", "workload": "workloads/nasa.json", "trace": "output/traces/nasa.json", "log": "output/logs/nasa.txt", "results": "output/results/nasa.json"}
