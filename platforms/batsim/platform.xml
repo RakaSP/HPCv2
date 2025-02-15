@@ -76,5 +76,53 @@
             <prop id="sleep_pstates" value="0:3:2"/>
             <prop id="watt_off" value="9"/>
         </host>
+         <host id="8" pstate="1" speed="0.0f, 101.0f, 0.1f, 0.1f">
+            <prop id="wattage_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="watt_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="sleep_pstates" value="0:3:2"/>
+            <prop id="watt_off" value="9"/>
+        </host>
+        <host id="9" pstate="1" speed="0.0f, 101.0f, 0.1f, 0.1f">
+            <prop id="wattage_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="watt_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="sleep_pstates" value="0:3:2"/>
+            <prop id="watt_off" value="9"/>
+        </host>
+        <host id="10" pstate="1" speed="0.0f, 101.0f, 0.1f, 0.1f">
+            <prop id="wattage_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="watt_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="sleep_pstates" value="0:3:2"/>
+            <prop id="watt_off" value="9"/>
+        </host>
+        <host id="11" pstate="1" speed="0.0f, 101.0f, 0.1f, 0.1f">
+            <prop id="wattage_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="watt_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="sleep_pstates" value="0:3:2"/>
+            <prop id="watt_off" value="9"/>
+        </host>
+        <host id="12" pstate="1" speed="0.0f, 101.0f, 0.1f, 0.1f">
+            <prop id="wattage_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="watt_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="sleep_pstates" value="0:3:2"/>
+            <prop id="watt_off" value="9"/>
+        </host>
+        <host id="13" pstate="1" speed="0.0f, 101.0f, 0.1f, 0.1f">
+            <prop id="wattage_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="watt_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="sleep_pstates" value="0:3:2"/>
+            <prop id="watt_off" value="9"/>
+        </host>
+           <host id="14" pstate="1" speed="0.0f, 101.0f, 0.1f, 0.1f">
+            <prop id="wattage_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="watt_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="sleep_pstates" value="0:3:2"/>
+            <prop id="watt_off" value="9"/>
+        </host>
+           <host id="15" pstate="1" speed="0.0f, 101.0f, 0.1f, 0.1f">
+            <prop id="wattage_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="watt_per_state" value="9:9,95.0:190.0,190.0:190.0,9:9"/>
+            <prop id="sleep_pstates" value="0:3:2"/>
+            <prop id="watt_off" value="9"/>
+        </host>
     </zone>
 </platform>

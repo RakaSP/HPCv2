@@ -1,5 +1,5 @@
 {
-    "nb_res": 8,
+    "nb_res": 16,
     "machines": [
         {
             "id": 0,
@@ -48,6 +48,55 @@
             "wattage_per_state": [9, 95, 190, 190, 9],
             "switch_on_time": 1,
             "switch_off_time": 1
+        },
+        {
+            "id": 8,
+            "wattage_per_state": [9, 95, 190, 190, 9],
+            "switch_on_time": 1,
+            "switch_off_time": 1
+        },
+            {
+            "id": 9,
+            "wattage_per_state": [9, 95, 190, 190, 9],
+            "switch_on_time": 1,
+            "switch_off_time": 1
+        },
+        {
+            "id": 10,
+            "wattage_per_state": [9, 95, 190, 190, 9],
+            "switch_on_time": 1,
+            "switch_off_time": 1
+        },
+        {
+            "id": 11,
+            "wattage_per_state": [9, 95, 190, 190, 9],
+            "switch_on_time": 1,
+            "switch_off_time": 1
+        },
+        {
+            "id": 12,
+            "wattage_per_state": [9, 95, 190, 190, 9],
+            "switch_on_time": 1,
+            "switch_off_time": 1
+        },
+        {
+            "id": 13,
+            "wattage_per_state": [9, 95, 190, 190, 9],
+            "switch_on_time": 1,
+            "switch_off_time": 1
+        },
+            {
+            "id": 14,
+            "wattage_per_state": [9, 95, 190, 190, 9],
+            "switch_on_time": 1,
+            "switch_off_time": 1
+        },
+        {
+            "id": 15,
+            "wattage_per_state": [9, 95, 190, 190, 9],
+            "switch_on_time": 1,
+            "switch_off_time": 1
         }
+
     ]
 }
