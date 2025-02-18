@@ -1,4 +1,4 @@
-time,nb_sleeping,nb_switching_on,nb_switching_off,nb_idle,nb_computing,nb_unavailable
+time,sleeping,switching_on,switching_off,idle,computing,unavailable
 0,0,0,0,16,0,0
 2,0,0,0,12,4,0
 3,0,0,0,7,9,0

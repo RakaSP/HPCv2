@@ -1,5 +1,7 @@
 {
     "nb_res": 16,
+    "switch_on_time": 1,
+    "switch_off_time": 1,
     "machines": [
         {
             "id": 0,
