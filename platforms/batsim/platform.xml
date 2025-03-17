@@ -3,7 +3,7 @@
 <platform version="4.1">
     <zone id="AS0" routing="Full">
         <!-- This host will be used by Batsim and won't be accounted. -->
-        <host id="master_host" pstate="0" speed="1000010.0Mf">
+        <host id="master_host" pstate="0" speed="1000000000000.0f">
             <prop id="watt_per_state" value="100:100" />
             <prop id="watt_off" value="9"/>
         </host>

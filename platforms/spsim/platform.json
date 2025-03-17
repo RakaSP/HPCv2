@@ -15,7 +15,7 @@
             "switch_on_time": 1,
             "switch_off_time": 1
         },
-            {
+        {
             "id": 2,
             "wattage_per_state": [9, 190, 190, 190, 9],
             "switch_on_time": 1,
