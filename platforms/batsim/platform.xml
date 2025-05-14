@@ -11,7 +11,15 @@
         <!-- These hosts will be used to compute jobs. -->
         <host id="0" pstate="1" speed="0.0f, 101.0f, 0.2f, 0.2f">
             <prop id="wattage_per_state" value="9:9,190.0:190.0,190.0:190.0,9:9"/>
+            <!-- wattage_per_state (SimGrid) -->
             <prop id="watt_per_state" value="9:9,190.0:190.0,190.0:190.0,9:9"/>
+            <!-- watt_per_state (BatsimPy) -->
+            <!-- 
+                The power state 0 (9:9) determines the power consumption while the host is sleeping, which is 9 Watts (W).
+                The power state 1 (190.0:190.0) determines the power consumption while the host is idle or computing, which is 190 W while idle and 190 W while computing.
+                The power state 2 (190.0:190.0) determines the power consumption while the host is switching on (boot), which is 190 W.
+                The power state 3 (9:9) determines the power consumption while the host is switching off (shutdown), which is 9 W.
+            -->
             <prop id="sleep_pstates" value="0:3:2"/>
             <prop id="watt_off" value="9"/>
         </host>

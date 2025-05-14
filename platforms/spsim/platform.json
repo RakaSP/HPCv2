@@ -5,99 +5,67 @@
     "machines": [
         {
             "id": 0,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 1,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 2,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 3,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 4,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 5,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
             {
             "id": 6,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 7,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 8,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
             {
             "id": 9,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 10,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 11,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 12,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 13,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
             {
             "id": 14,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         },
         {
             "id": 15,
-            "wattage_per_state": [9, 190, 190, 190, 9],
-            "switch_on_time": 1,
-            "switch_off_time": 1
+            "wattage_per_state": [9, 190, 190, 190, 9]
         }
 
     ]
