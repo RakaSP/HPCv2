@@ -1,0 +1,39 @@
+{
+    "nb_res": 4,
+    "switch_on_time": 5,
+    "switch_off_time": 5,
+    "machines": [
+        {
+            "id": 0,
+            "wattage_per_state": [9, 190, 190, 190, 9]
+        },
+        {
+            "id": 1,
+            "wattage_per_state": [9, 190, 190, 190, 9]
+        },
+        {
+            "id": 2,
+            "wattage_per_state": [9, 190, 190, 190, 9]
+        },
+        {
+            "id": 3,
+            "wattage_per_state": [9, 190, 190, 190, 9]
+        },
+        {
+            "id": 4,
+            "wattage_per_state": [9, 190, 190, 190, 9]
+        },
+        {
+            "id": 5,
+            "wattage_per_state": [9, 190, 190, 190, 9]
+        },
+            {
+            "id": 6,
+            "wattage_per_state": [9, 190, 190, 190, 9]
+        },
+        {
+            "id": 7,
+            "wattage_per_state": [9, 190, 190, 190, 9]
+        }
+    ]
+}
