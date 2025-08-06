@@ -1,0 +1,19 @@
+dvfs_mode,state,start_time,finish_time,nodes,job_id
+base,active,0.0,4.0,0 1 2 3,-1.0
+base,active,0.0,155.0,4,-1.0
+base,active,0.0,307.0,5 6 7,-1.0
+base,active,4.0,155.0,0 1 2 3,1.0
+base,active,155.0,307.0,0 1 2 3 4,2.0
+base,active,307.0,457.0,4 5 6 7,5.0
+base,active,307.0,459.0,0 1 2 3,3.0
+base,active,457.0,459.0,4 5,-1.0
+base,active,457.0,759.0,6 7,-1.0
+base,active,459.0,610.0,0 1 2 3 4 5,4.0
+base,active,610.0,759.0,0 1 2 3 4 5,6.0
+base,active,759.0,906.0,4 5 6 7,9.0
+base,active,759.0,909.0,0 1 2 3,7.0
+base,active,906.0,909.0,4,-1.0
+base,active,906.0,1209.0,5 6 7,-1.0
+base,active,909.0,1062.0,0 1 2 3 4,8.0
+base,active,1062.0,1209.0,4,-1.0
+base,active,1062.0,1209.0,0 1 2 3,10.0
