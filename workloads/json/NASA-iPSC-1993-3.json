@@ -1,6 +1,7 @@
 {
     "nb_res": 128,
-    "jobs": [
+    "jobs": 
+    [
         {
             "job_id": 1,
             "res": 128,

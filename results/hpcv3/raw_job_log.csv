@@ -1,11 +1,11 @@
 job_id,type,nodes,start_time,finish_time
-1,execution_finished,"[0, 1, 2, 3]",4.0,155.0
-2,execution_finished,"[0, 1, 2, 3, 4]",155.0,307.0
-5,execution_finished,"[4, 5, 6, 7]",307.0,457.0
-3,execution_finished,"[0, 1, 2, 3]",307.0,459.0
-4,execution_finished,"[0, 1, 2, 3, 4, 5]",459.0,610.0
-6,execution_finished,"[0, 1, 2, 3, 4, 5]",610.0,759.0
-9,execution_finished,"[4, 5, 6, 7]",759.0,906.0
-7,execution_finished,"[0, 1, 2, 3]",759.0,909.0
-8,execution_finished,"[0, 1, 2, 3, 4]",909.0,1062.0
-10,execution_finished,"[0, 1, 2, 3]",1062.0,1209.0
+1,execution_finished,"[0, 1, 2, 3]",4.0,129.83333333333334
+2,execution_finished,"[0, 1, 2, 3, 4]",129.83333333333334,256.5
+5,execution_finished,"[4, 5, 6, 7]",256.5,381.5
+3,execution_finished,"[0, 1, 2, 3]",256.5,383.1666666666667
+4,execution_finished,"[0, 1, 2, 3, 4, 5]",383.1666666666667,509.0
+6,execution_finished,"[0, 1, 2, 3, 4, 5]",509.0,633.1666666666666
+9,execution_finished,"[4, 5, 6, 7]",633.1666666666666,755.6666666666666
+7,execution_finished,"[0, 1, 2, 3]",633.1666666666666,758.1666666666666
+8,execution_finished,"[0, 1, 2, 3, 4]",758.1666666666666,885.6666666666666
+10,execution_finished,"[0, 1, 2, 3]",885.6666666666666,1008.1666666666666

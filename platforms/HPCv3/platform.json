@@ -5,7 +5,7 @@
       "dvfs_profiles": {
         "underclock_1": { "power": 140, "compute_speed": 0.5 },
         "base": { "power": 210, "compute_speed": 1.0 },
-        "overclock_1": { "power": 300, "compute_speed": 1.5 }
+        "overclock_1": { "power": 300, "compute_speed": 1.2 }
       },
       "dvfs_mode": "base",
       "states": {
@@ -40,7 +40,7 @@
       "dvfs_profiles": {
         "underclock_1": { "power": 130, "compute_speed": 0.6 },
         "base": { "power": 200, "compute_speed": 1.0 },
-        "overclock_1": { "power": 290, "compute_speed": 1.6 }
+        "overclock_1": { "power": 290, "compute_speed": 1.2 }
       },
       "dvfs_mode": "base",
       "states": {
@@ -75,7 +75,7 @@
       "dvfs_profiles": {
         "underclock_1": { "power": 150, "compute_speed": 0.4 },
         "base": { "power": 220, "compute_speed": 1.0 },
-        "overclock_1": { "power": 310, "compute_speed": 1.4 }
+        "overclock_1": { "power": 310, "compute_speed": 1.2 }
       },
       "dvfs_mode": "base",
       "states": {
@@ -110,7 +110,7 @@
       "dvfs_profiles": {
         "underclock_1": { "power": 135, "compute_speed": 0.55 },
         "base": { "power": 205, "compute_speed": 1.0 },
-        "overclock_1": { "power": 295, "compute_speed": 1.45 }
+        "overclock_1": { "power": 295, "compute_speed": 1.2 }
       },
       "dvfs_mode": "base",
       "states": {
@@ -145,7 +145,7 @@
       "dvfs_profiles": {
         "underclock_1": { "power": 140, "compute_speed": 0.5 },
         "base": { "power": 210, "compute_speed": 1.0 },
-        "overclock_1": { "power": 300, "compute_speed": 1.5 }
+        "overclock_1": { "power": 300, "compute_speed": 1.2 }
       },
       "dvfs_mode": "base",
       "states": {
@@ -180,7 +180,7 @@
       "dvfs_profiles": {
         "underclock_1": { "power": 130, "compute_speed": 0.6 },
         "base": { "power": 200, "compute_speed": 1.0 },
-        "overclock_1": { "power": 290, "compute_speed": 1.6 }
+        "overclock_1": { "power": 290, "compute_speed": 1.2 }
       },
       "dvfs_mode": "base",
       "states": {
@@ -215,7 +215,7 @@
       "dvfs_profiles": {
         "underclock_1": { "power": 150, "compute_speed": 0.4 },
         "base": { "power": 220, "compute_speed": 1.0 },
-        "overclock_1": { "power": 310, "compute_speed": 1.4 }
+        "overclock_1": { "power": 310, "compute_speed": 1.2 }
       },
       "dvfs_mode": "base",
       "states": {
@@ -250,7 +250,7 @@
       "dvfs_profiles": {
         "underclock_1": { "power": 135, "compute_speed": 0.55 },
         "base": { "power": 205, "compute_speed": 1.0 },
-        "overclock_1": { "power": 295, "compute_speed": 1.45 }
+        "overclock_1": { "power": 295, "compute_speed": 1.2 }
       },
       "dvfs_mode": "base",
       "states": {
