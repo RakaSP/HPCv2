@@ -1,19 +1,38 @@
 dvfs_mode,state,start_time,finish_time,nodes,job_id
-overclock_1,active,0.0,4.0,0 1 2 3,-1.0
-overclock_1,active,0.0,129.83333333333334,4,-1.0
-overclock_1,active,0.0,383.1666666666667,5,-1.0
-overclock_1,active,0.0,1010.6666666666666,6 7,-1.0
-overclock_1,active,4.0,129.83333333333334,0 1 2 3,1.0
-overclock_1,active,129.83333333333334,256.5,0 1 2 3 4,2.0
-overclock_1,active,256.5,383.1666666666667,4,-1.0
-overclock_1,active,256.5,383.1666666666667,0 1 2 3,3.0
-overclock_1,active,383.1666666666667,509.0,0 1 2 3 4 5,4.0
-overclock_1,active,509.0,634.0,4 5,-1.0
-overclock_1,active,509.0,634.0,0 1 2 3,5.0
-overclock_1,active,634.0,758.1666666666666,0 1 2 3 4 5,6.0
-overclock_1,active,758.1666666666666,883.1666666666666,4,-1.0
-overclock_1,active,758.1666666666666,883.1666666666666,0 1 2 3,7.0
-overclock_1,active,758.1666666666666,1010.6666666666666,5,-1.0
-overclock_1,active,883.1666666666666,1010.6666666666666,0 1 2 3 4,8.0
-overclock_1,active,1010.6666666666666,1133.1666666666665,0 1 2 3,9.0
-overclock_1,active,1010.6666666666666,1133.1666666666665,4 5 6 7,10.0
+base,active,0.0,4.0,0 1 2 3,-1.0
+base,active,0.0,30.0,4 5 6 7,-1.0
+base,active,4.0,155.0,0 1 2 3,1.0
+base,switching_off,30.0,35.0,4 5 6 7,-2.0
+base,sleeping,35.0,155.0,4,-4.0
+base,sleeping,35.0,464.0,5,-4.0
+base,sleeping,35.0,1232.0,6 7,-4.0
+base,active,155.0,160.0,0 1 2 3,-1.0
+base,switching_on,155.0,160.0,4,-3.0
+base,active,160.0,312.0,0 1 2 3 4,2.0
+base,active,312.0,342.0,4,-1.0
+base,active,312.0,464.0,0 1 2 3,3.0
+base,switching_off,342.0,347.0,4,-2.0
+base,sleeping,347.0,464.0,4,-4.0
+base,active,464.0,469.0,0 1 2 3,-1.0
+base,switching_on,464.0,469.0,4 5,-3.0
+base,active,469.0,620.0,0 1 2 3 4 5,4.0
+base,active,620.0,650.0,4 5,-1.0
+base,active,620.0,770.0,0 1 2 3,5.0
+base,switching_off,650.0,655.0,4 5,-2.0
+base,sleeping,655.0,770.0,4 5,-4.0
+base,active,770.0,775.0,0 1 2 3,-1.0
+base,switching_on,770.0,775.0,4 5,-3.0
+base,active,775.0,924.0,0 1 2 3 4 5,6.0
+base,active,924.0,954.0,4 5,-1.0
+base,active,924.0,1074.0,0 1 2 3,7.0
+base,switching_off,954.0,959.0,4 5,-2.0
+base,sleeping,959.0,1074.0,4,-4.0
+base,sleeping,959.0,1232.0,5,-4.0
+base,active,1074.0,1079.0,0 1 2 3,-1.0
+base,switching_on,1074.0,1079.0,4,-3.0
+base,active,1079.0,1232.0,0 1 2 3 4,8.0
+base,active,1232.0,1237.0,4,-1.0
+base,switching_on,1232.0,1237.0,5 6 7,-3.0
+base,active,1232.0,1379.0,0 1 2 3,9.0
+base,active,1237.0,1384.0,4 5 6 7,10.0
+base,active,1379.0,1384.0,0 1 2 3,-1.0
