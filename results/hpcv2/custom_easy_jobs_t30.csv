@@ -1,4 +1,0 @@
-job_id,workload_name,profile,submission_time,requested_number_of_resources,requested_time,success,final_state,starting_time,execution_time,finish_time,waiting_time,turnaround_time,stretch,allocated_resources,consumed_energy
-1,w0,100,30,4,151,0,COMPLETED_WALLTIME_REACHED,30,151,181,0,151,1.0,0 1 2 3,-1
-3,w0,100,30,4,151,0,COMPLETED_WALLTIME_REACHED,30,151,181,0,151,1.0,4 5 6 7,-1
-2,w0,100,30,5,152,0,COMPLETED_WALLTIME_REACHED,181,152,333,151,303,1.993421052631579,0 1 2 3 4,-1
